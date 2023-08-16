@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="07/23/22||20:33:17" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.2.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="aubo2" uid="aubo2" version="303">
+<AssemblyFile name="aubo2.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Part2-4" uid="Part2-4" entityUid="Part2*:*Default">
+<Transform>
+<Rotation>0.99946202471313028 -0.031593229604123141 -0.0088050553383653262 0.03159336482648975 0.99950079738830189 -0.00012377030772023798 0.0088045701354942454 -0.00015447760326897078 0.99996122708903046</Rotation>
+<Translation>-0.20888378526463691 -0.10177581555159536 -0.81004456869131025</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="cover3-1" uid="cover3-1" entityUid="cover3*:*Default">
+<Transform>
+<Rotation>0.023721055315541167 0.99971861255409533 -8.513302528371776e-05 -0.99971861255409533 0.023721062395235346 8.3136973179609501e-05 8.5133025283716431e-05 8.3136973179610856e-05 0.99999999292030595</Rotation>
+<Translation>-0.20571317821378834 -0.15373395393670986 -1.0300316117335817</Translation>
+</Transform>
+</Instance>
+<Instance name="Part2-5" uid="Part2-5" entityUid="Part2*:*Default">
+<Transform>
+<Rotation>0.99948801057144787 -0.0050581189300453406 0.031593229604124674 0.031593606817628822 -5.3293460124549486e-06 -0.99950079738830178 0.0050557622751173951 0.99998720762042126 0.00015447760326902242</Rotation>
+<Translation>-0.21259467762294665 0.028164857772731273 -0.85506290599874157</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="3RAH 90-1" uid="3RAH 90-1" grounded="true" entityUid="3RAH 90*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.21224861239493698 0.038139630853581942 0.34990862167821662</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part3-1" uid="Part3-1" entityUid="Part3*:*Default">
+<Transform>
+<Rotation>-0.0069605073090801932 -0.4903144401283448 -0.87151781458535194 0 -0.87153892728852955 0.49032631809924204 -0.99997577537558391 0.0034129199209641473 0.006066353073539716</Rotation>
+<Translation>-0.21308387327202657 0.25813963085358188 0.17991152863314663</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="D100 L400-1" uid="D100 L400-1" entityUid="D100 L400*:*Default">
+<Transform>
+<Rotation>-0.94669064247161883 0.0050581189300453206 0.32210439750112557 -0.32210849250631812 5.3293460123884989e-06 -0.94670276170871359 -0.0047902517659114251 -0.99998720762042126 0.0016242178214741475</Rotation>
+<Translation>-0.2159637487431996 0.073140341856990157 -0.47007478255702656</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part1-1" uid="Part1-1" entityUid="Part1*:*Default">
+<Transform>
+<Rotation>0.0050581189300453275 0.99998710932230761 0.00044342091158199135 5.3293460125984986e-06 0.00044339962724243326 -0.99999990168417952 -0.99998720762042126 0.005058120795895682 -3.0865092655867453e-06</Rotation>
+<Translation>-0.21616607350040154 0.073140128683149536 -0.43007529425220986</Translation>
+</Transform>
+</Instance>
+<Instance name="3RAH 90-3" uid="3RAH 90-3" entityUid="3RAH 90*:*Default">
+<Transform>
+<Rotation>-0.99997567706214507 0.0069605073090801793 -0.00044342091158204784 -0.00044343165354731034 0 0.99999990168417963 0.0069605066247521918 0.99997577537558391 3.0865092655934313e-06</Rotation>
+<Translation>-0.21672550811832744 0.30813962593779093 -0.34007572023669452</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="3RAH 90-2" uid="3RAH 90-2" entityUid="3RAH 90*:*Default">
+<Transform>
+<Rotation>-0.99997577537558391 -0.0069605073090802808 0 0 0 -1 0.0069605073090802808 -0.99997577537558391 0</Rotation>
+<Translation>-0.21224861239493698 0.20813963085358189 0.29990862167821664</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="Part2-6" uid="Part2-6" entityUid="Part2*:*Default">
+<Transform>
+<Rotation>0.99967984001639509 -0.0088050553383652065 0.02372105531554116 0.023720885182174051 -0.00012377030772002374 -0.999718612554095 0.0088055136686483425 0.99996122708903024 8.5133025283716404e-05</Rotation>
+<Translation>-0.2058792256009972 -0.1467359236488312 -1.030032207664759</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="kafi-1" uid="kafi-1" entityUid="kafi*:*Default">
+<Transform>
+<Rotation>0.98727466872823 0 0.15902430156288619 -0.15902430156288619 0 0.98727466872823 0 -1 0</Rotation>
+<Translation>-0.21224861239493698 0.038139630853581942 0.40490862167821662</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-1</Uid>
+</InstancePath>
+<Position>0 0 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-2</Uid>
+</InstancePath>
+<Position>0 0 0.049999999999999989</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-1</Uid>
+</InstancePath>
+<Position>0 0.11999999999999997 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-2</Uid>
+</InstancePath>
+<Position>0 0 0.049999999999999989</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-2</Uid>
+</InstancePath>
+<Position>0 0 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0.40000000000000002 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-2</Uid>
+</InstancePath>
+<Position>0 0.11999999999999994 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0.40000000000000002 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-3</Uid>
+</InstancePath>
+<Position>0 0 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0.40000000000000002 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-3</Uid>
+</InstancePath>
+<Position>0 0.11999999999999994 -0.049999999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-3</Uid>
+</InstancePath>
+<Position>0 0 0.049999999999999989</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.090000000000000024 0 -0.085000000000000048</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-3</Uid>
+</InstancePath>
+<Position>0 0 -0.15000000000000008</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.090000000000000024 0 -0.085000000000000048</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.03999999999999998 0 0</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>D100 L400-1</Uid>
+</InstancePath>
+<Position>0 0.29999999999999988 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.040000000000000036 0 0</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D100 L400-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>D100 L400-1</Uid>
+</InstancePath>
+<Position>0 0.29999999999999988 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-5</Uid>
+</InstancePath>
+<Position>0 0 -0.044999999999999984</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>D100 L400-1</Uid>
+</InstancePath>
+<Position>0 0.29999999999999988 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-5</Uid>
+</InstancePath>
+<Position>0 0.085000000000000075 -0.044999999999999984</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-4</Uid>
+</InstancePath>
+<Position>0 0 -0.04500000000000004</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-5</Uid>
+</InstancePath>
+<Position>0 1.1102230246251565e-16 0.044999999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-4</Uid>
+</InstancePath>
+<Position>0 0.084999999999999978 -0.04500000000000004</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-5</Uid>
+</InstancePath>
+<Position>0 1.1102230246251565e-16 0.044999999999999998</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-4</Uid>
+</InstancePath>
+<Position>0 0 0.04500000000000004</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-6</Uid>
+</InstancePath>
+<Position>0 2.2204460492503131e-16 -0.044999999999999998</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-4</Uid>
+</InstancePath>
+<Position>0 0 -0.13500000000000012</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-6</Uid>
+</InstancePath>
+<Position>0 0.084999999999999964 -0.045000000000000012</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>3RAH 90-1</Uid>
+</InstancePath>
+<Position>0 0 0.049999999999999989</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>kafi-1</Uid>
+</InstancePath>
+<Position>0 -0.015000000000000013 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3RAH 90-1</Uid>
+</InstancePath>
+<Position>0 0 0.049999999999999989</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>kafi-1</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000044 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident21">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Part2-6</Uid>
+</InstancePath>
+<Position>0 0 0.044999999999999984</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>cover3-1</Uid>
+</InstancePath>
+<Position>0.030000000000000054 0 -2.2204460492503131e-16</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident22">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-6</Uid>
+</InstancePath>
+<Position>0 0 0.044999999999999984</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>cover3-1</Uid>
+</InstancePath>
+<Position>0.038000000000000034 0 -2.2204460492503131e-16</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="3RAH 90" uid="3RAH 90*:*Default" version="263">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3RAH 90.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.5151020128213815</Mass>
+<CenterOfMass>-1.5263585451198522e-09 0.021204886457579484 -0.050000000000000017</CenterOfMass>
+<Inertia>0.017749722062180336 0.013573654090995195 0.011911258168814302 0 -9.3666304152528574e-10 4.5455334176229169e-10</Inertia>
+</MassProperties>
+<GeometryFile name="3RAH 90_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="D100 L400" uid="D100 L400*:*Default" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="D100 L400.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.9085175370557999</Mass>
+<CenterOfMass>0 0.14999999999999997 0</CenterOfMass>
+<Inertia>0.015280068531052998 0.0019323740062689968 0.015280068531052998 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="D100 L400_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part1" uid="Part1*:*Default" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.5200581629751504</Mass>
+<CenterOfMass>-0.048654549909563118 0 -0.016350593262071784</CenterOfMass>
+<Inertia>0.0026540028554621234 0.0051389143546946535 0.0043849842029514679 0 -0.0010808080604710847 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part2" uid="Part2*:*Default" version="384">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.7479725306755989</Mass>
+<CenterOfMass>-1.3020557091615241e-09 0.012019257255318114 -0.044999999999999978</CenterOfMass>
+<Inertia>0.0060286420269774661 0.0051462100161043436 0.0031507664424171053 0 -1.8896438504286665e-10 1.284525169376029e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Part2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part3" uid="Part3*:*Default" version="115">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.8013271108436486</Mass>
+<CenterOfMass>0.19999999999999998 0 0</CenterOfMass>
+<Inertia>0.0057495072551510158 0.053559115105490815 0.053559115105490815 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part3_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="cover3" uid="cover3*:*Default" version="143">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="cover3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.072053213339409131</Mass>
+<CenterOfMass>0.021728888986828478 0 0</CenterOfMass>
+<Inertia>0.00018149983541987895 0.00010183749299664605 0.00010183749299664608 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="cover3_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="kafi" uid="kafi*:*Default" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="kafi.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.4288273972150069</Mass>
+<CenterOfMass>0 -0.0054395604395604405 0</CenterOfMass>
+<Inertia>0.00075280964171897289 0.0014784531377334425 0.000752809641718973 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="kafi_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
